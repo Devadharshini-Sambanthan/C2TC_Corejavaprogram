@@ -1,4 +1,4 @@
-package day2.assesment;
+package day2;
 
 public class WhileDemo {
 
