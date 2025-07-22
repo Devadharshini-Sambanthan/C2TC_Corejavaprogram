@@ -1,4 +1,4 @@
-package day1.assesment;
+package day1;
 
 public class CharDemo {
 
